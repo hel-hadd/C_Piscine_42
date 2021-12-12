@@ -1,0 +1,5 @@
+Credentials cache: API:9CC5B164-9417-4362-8DA1-6C9592029909
+        Principal: hel-hadd@1337.MA
+
+  Issued                Expires               Principal
+Jun 22 10:34:19 2021  Jun 22 20:34:01 2021  krbtgt/1337.MA@1337.MA
